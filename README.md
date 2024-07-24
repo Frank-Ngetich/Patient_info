@@ -1,0 +1,1 @@
+This is a patient information system. the actor in this system is the healthcare provider who logs into the system using their credentials. Once in the system they can register first time patients or retrieve patient's information using their name and phone number.
